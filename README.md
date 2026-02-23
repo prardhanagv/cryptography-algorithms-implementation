@@ -169,9 +169,3 @@ Client                          Server
 - [OWASP Password Storage Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [RFC 8017 — PKCS #1 v2.2: RSA Cryptography](https://www.rfc-editor.org/rfc/rfc8017)
 
----
-
-## 👤 Author
-
-Cybersecurity Intern — Codec Technologies  
-*Project 6 of 10: Cryptography Algorithms Implementation*
